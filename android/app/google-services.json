@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940123452763",
+    "project_id": "th03-e0a55",
+    "storage_bucket": "th03-e0a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940123452763:android:2409e84a6b5a3345f5167e",
+        "android_client_info": {
+          "package_name": "com.th3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClSzjDmWp5UiEHfmxMw6xHHCgmDtV-kDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
